@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tulong66-mcp-tavily-proxy-badge.png)](https://mseep.ai/app/tulong66-mcp-tavily-proxy)
+
 # Tavily MCP Server with Proxy Support
 
 A Model Context Protocol server that provides AI-powered web search capabilities using Tavily's search API, with added support for HTTP/HTTPS proxy configurations. This server enables LLMs to perform sophisticated web searches through proxy servers, get direct answers to questions, and search recent news articles with AI-extracted relevant content.
